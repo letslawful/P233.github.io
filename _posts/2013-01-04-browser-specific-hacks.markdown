@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CSS 判断浏览器方法整理
-categories: CSS
+tags: CSS
 ---
 
 [http://browserhacks.com/](http://browserhacks.com/)，最全的 hack 方法整理。

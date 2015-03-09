@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 如何管理 Sass 文件结构
-categories: Sass
+tags: Sass
 ---
 
 [John W.Long](http://wiseheartdesign.com) 在 [The Sass Way](http://thesassway.com/beginner/how-to-structure-a-sass-project) 分享了他管理 Sass 项目的一些经验心得，简单翻译了一下以便深入学习理解。

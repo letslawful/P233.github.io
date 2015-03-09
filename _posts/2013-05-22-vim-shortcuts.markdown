@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vim Keyboard Shortcuts
-categories: Codepen
+tags: Codepen
 ---
 
 [![Vim Keyboard Shortcuts](/upload/2013/codepen-3.jpg)](http://codepen.io/P233/pen/jrxzE)

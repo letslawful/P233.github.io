@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pure CSS Happy Hacking Keyboard
-categories: Codepen
+tags: Codepen
 ---
 
 [![Pure CSS Happy Hacking Keyboard](/upload/2013/codepen-4.jpg)](http://codepen.io/P233/pen/qEagi)

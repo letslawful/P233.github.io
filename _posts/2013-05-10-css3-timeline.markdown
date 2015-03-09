@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CSS3 Timeline
-categories: Codepen
+tags: Codepen
 ---
 
 [![CSS3 Timeline](/upload/2013/codepen-2.jpg)](http://codepen.io/P233/pen/lGewF)

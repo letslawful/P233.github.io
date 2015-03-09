@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 用 Dropbox 同步 Mac 软件设置
-categories: 杂货箱
+tags: 杂货箱
 ---
 
 台式机与笔记本电脑之间虽然用 Dropbox 同步文件很方便，但偶尔会想如果可以同步软件设置就更完美了。某个周末花了些时间搜集、整理了一些方法，在此分享出来。不必非用 Dropbox，Google Drive 等类似服务也没有问题。

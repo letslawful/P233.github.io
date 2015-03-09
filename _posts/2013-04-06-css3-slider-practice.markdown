@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CSS3 Slider 模仿练习
-categories: Codepen
+tags: Codepen
 ---
 
 [![CSS Slider](/upload/2013/codepen-1.jpg)](http://codepen.io/P233/pen/HGdir)

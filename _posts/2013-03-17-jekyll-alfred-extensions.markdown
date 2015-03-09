@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyll Alfred 2 Workflows
-categories: 杂货箱
+tags: 杂货箱
 ---
 
 Alfred 2 将之前的 extension 功能改为现在的 workflow，所以将这三个 Jekyll 相关插件简单调整了一下，重新发布，欢迎大家使用，下载地址：[https://github.com/P233/Jekyll-Alfred-Extensions](https://github.com/P233/Jekyll-Alfred-Extensions)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 关注 CSS 性能 (二)
-categories: CSS
+tags: CSS
 ---
 
 如何写 CSS 令浏览器的执行效率最高呢？翻译一篇 Chris Coyier 的 [Efficiently Rendering CSS](http://css-tricks.com/efficiently-rendering-css/) 帮助理清思路。此外，Google 也有一篇更详细的讲解文章 [Optimize browser rendering](https://developers.google.com/speed/docs/best-practices/rendering)。

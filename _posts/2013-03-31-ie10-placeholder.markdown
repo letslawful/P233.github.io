@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IE10 的 placeholder 伪类问题
-categories: CSS
+tags: CSS
 ---
 
 从 HTML5 开始 `input` `textarea` 支持 `placeholder` 属性，除了 IE 浏览器，兼容性还算不错，以为 IE10 也可以友好兼容的，然后发现其实我是图样图森破。

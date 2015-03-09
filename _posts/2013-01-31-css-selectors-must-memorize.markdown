@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 牢记 31 种 CSS 选择器用法
-categories: CSS
+tags: CSS
 ---
 
 原文 [The 30 CSS Selectors you Must Memorize](http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/) 由 Jeffrey Way 发表于 2011 年 6 月，介绍了 30 种最常用的 CSS 选择器用法，多加了一种，变成了牢记 31 种选择器用法。其他 CSS3 选择器用法请查看 [CSS3 selectors explained](http://www.456bereastreet.com/archive/200601/css_3_selectors_explained/) 这篇文章，此外，W3C CSS3 选择器官方文档 [Selectors Level 3 W3C Recommendation 29 September 2011](http://www.w3.org/TR/css3-selectors/) 记录在这里留待有疑问的时候查看。

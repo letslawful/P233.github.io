@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CSS 3D Walking Robot
-categories: Codepen
+tags: Codepen
 ---
 
 [![CSS 3D Walking Robot](/upload/2013/codepen-5.jpg)](http://codepen.io/P233/pen/jrguI)

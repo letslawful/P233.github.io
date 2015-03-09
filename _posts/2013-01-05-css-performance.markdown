@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 关注 CSS 性能 (一)
-categories: CSS
+tags: CSS
 ---
 
 虽然自己只是入门水平会写简单的页面，但本着“取法乎上，得乎其中”的原则，一直关注 CSS 性能，读过几篇相关文章，准备逐步翻译出来当做总结与积累。第一篇 [Why you should care about CSS page performance](http://boagworld.com/dev/why-you-should-care-about-css-page-performance/)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 关于 CSS Transition 的一切
-categories: CSS
+tags: CSS
 ---
 
 刚刚读到的文章，非常不错，翻译出来与大家分享。原文 [All you need to know about CSS Transitions](http://blog.alexmaccaw.com/css-transitions) 由 Alex Maccaw 发表于 2013 年 1 月 3 日。不想花太多时间纠结于字面翻译，只专注最核心的信息，自己的 Javascript 只有入门水平，因此后半部分理解不深入，深入理解还请阅读原文，翻译不当的地方请大家指正。

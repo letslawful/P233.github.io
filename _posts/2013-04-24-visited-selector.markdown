@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visited 选择器的使用限制
-categories: CSS
+tags: CSS
 ---
 
 尝试给访问过的链接添加样式，结果遇到了问题，代码如下：

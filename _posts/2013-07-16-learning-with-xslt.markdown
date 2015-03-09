@@ -1,7 +1,7 @@
 ---
 layout: post
 title: XSLT 学习笔记
-categories: 杂货箱
+tags: 杂货箱
 ---
 
 XSLT 初学者，整理一些用法，加深记忆：

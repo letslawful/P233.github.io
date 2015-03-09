@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sublime Text 设置
-categories: 杂货箱
+tags: 杂货箱
 ---
 
 ## 偏好设置
