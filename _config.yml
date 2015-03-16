@@ -19,6 +19,10 @@ codepen:  P233
 # disqus_shortname:
 
 
+# Google Analytics
+google_analytics: UA-60830414-1
+
+
 # Build settings
 markdown: kramdown
 sass:
