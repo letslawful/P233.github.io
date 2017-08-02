@@ -3,7 +3,6 @@ title: Peiwen Lu
 email: "&#104;&#105;&#064;&#112;&#101;&#105;&#119;&#101;&#110;&#046;&#108;&#117;"
 description: "Peiwen Lu's front-end blog."
 baseurl: ""
-url: "http://peiwen.lu"
 permalink: /:year/:title
 
 
