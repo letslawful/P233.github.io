@@ -1,7 +1,7 @@
 # Site settings
-title: letslawful
+title: 老夫的自留地
 email: "letslawfull@gmail.com"
-description: "letslawful's front-end blog."
+description: "“天空没有留下痕迹，飞鸟已从这里飞过。”但是我想留下属于我的痕迹。"
 baseurl: ""
 url: "https://letslawful.github.io"
 permalink: /:year/:title
