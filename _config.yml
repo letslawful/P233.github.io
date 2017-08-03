@@ -8,10 +8,9 @@ permalink: /:year/:title
 
 
 # Social account
-facebook:  白马
 # weibo:    ID
 github:   letslawful
-codepen:  letslawful
+# codepen:  letslawful
 # dribbble: username
 
 
@@ -20,7 +19,7 @@ codepen:  letslawful
 
 
 # Google Analytics
-google_analytics: UA-60830414-1
+# google_analytics: UA-60830414-1
 
 
 # Build settings
