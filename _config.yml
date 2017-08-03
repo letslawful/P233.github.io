@@ -1,9 +1,9 @@
 # Site settings
 title: letslawful
-email: "&#104;&#105;&#064;&#112;&#101;&#105;&#119;&#101;&#110;&#046;&#108;&#117;"
+email: "letslawfull@gmail.com"
 description: "letslawful's front-end blog."
 baseurl: ""
-url: "http://peiwen.lu"
+url: "https://letslawful.github.io"
 permalink: /:year/:title
 
 
