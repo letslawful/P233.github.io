@@ -3,7 +3,7 @@ layout: post
 title: iterm2补全不区分大小写
 date: 2018-4-08
 categories: blog
-tags: [工具使用]
+tags: [效率提升]
 description: na。
 ---
 
